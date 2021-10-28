@@ -4,4 +4,5 @@ This is a Project for Computer Security class. In this Project, we worked on pro
 
 In this Project, we are planning on comparing two pictures, one of the given pictures is fake where other one is origanal picture. 
 
-The objective of this project is to learn how deepfake works, and how to avoid getting caught in these situations. 
+The objective of this project is to learn how deepfake works, and how to avoid getting caught in these situations. This project will assist anyone to compare two images and
+see the difference between them.
