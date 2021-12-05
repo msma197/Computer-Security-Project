@@ -8,7 +8,7 @@ The objective of this project is to learn how deepfake works, and how to avoid g
 
 **Tutorial on How to Run this program on your machine.**
 
-1. 'Download PyCharm'
+1. `Download PyCharm`
 
 2. Install the following libraries if you don't have on your machine:
       >a) Install matplotlib          (pip install matplotlib)
