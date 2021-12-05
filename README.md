@@ -8,14 +8,14 @@ The objective of this project is to learn how deepfake works, and how to avoid g
 
 **Tutorial on How to Run this program on your machine.**
 
-1. `Download PyCharm`
+1. Download PyCharm
 
 2. Install the following libraries if you don't have on your machine:
-      >a) Install matplotlib          (pip install matplotlib)
-      b) Install scipy               (pip install scipy)
-      c) Install mtcnn               (pip install mtcnn)
-      d) Install tensorflow	         (pip install tensorflow)
-      e) Install keras_applications	 (pip install keras_applications)
+     ` a) Install matplotlib          (pip install matplotlib)`
+     ` b) Install scipy               (pip install scipy)`
+     ` c) Install mtcnn               (pip install mtcnn)`
+     ` d) Install tensorflow	         (pip install tensorflow)`
+     ` e) Install keras_applications	 (pip install keras_applications)`
 
 3. Run this project: Python FaceSimilarity.py car.jpeg pic.jpeg 
    
