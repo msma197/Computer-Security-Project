@@ -10,6 +10,7 @@ The objective of this project is to learn how deepfake works, and how to avoid g
 
 1. Download PyCharm
 
+
 2. Install the following libraries if you don't have on your machine:
 
      ```
