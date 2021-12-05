@@ -22,7 +22,7 @@ The objective of this project is to learn how deepfake works, and how to avoid g
 
 3. Run this project: Python FaceSimilarity.py car.jpeg pic.jpeg 
 
-```** In this command "car.jpeg" is the first picture and "pic.jpeg" is the second picture which we are comparing. In order to test your pictures you can simply add your pictures in the same directory and replace "car.jpeg" and "pic.jpeg" with your pictures name.```
+```** In this command "car.jpeg" is the first picture and "pic.jpeg" is the second picture which we are comparing. In order to test your pictures you can simply add your pictures in the same directory and replace "car.jpeg" and "pic.jpeg" with your pictures name.**```
 
    
       
