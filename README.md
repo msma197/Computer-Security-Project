@@ -3,10 +3,9 @@
 **Overview**
 
 This is a Project for Computer Security class. In this Project, we worked on programs related to deepfake.
-
 In this Project, we are planning on comparing two pictures, one of the given pictures is fake where other one is origanal picture. 
 
-The objective of this project is to learn how deepfake works, and how to avoid getting caught in these situations. This project will assist anyone to compare two images and see the difference between them.
+The objective of this project is to learn how deepfake works, and how to avoid getting caught in these situations. This project will assist anyone to compare two images and see the difference between them. In this program we are taking two pictures and comparing them and our program will output the result if person is same in both picturs or not. We have set the threshold score to 0.5 if pictures are real then threshold score should be lower than 0.5 on the other hand if pictures are fake then score will be above 0.5.  
 
 **Tutorial on How to Run this program on your machine.**
 
